@@ -2,3 +2,5 @@
 tmp/*
 chroma_db*/
 .qodo
+*pycache*
+*CodeRunner*
